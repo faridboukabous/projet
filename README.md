@@ -1,5 +1,9 @@
+nom : boukabous
+prenom : farid
+group : 02
 # projet
 projet système d'exploitation
+
 
 On veut effectuer en parallèle(En utilisant le modèle producteurs/consommateur) le produit de deux matrices: 
 B (n1* m1)  et C (n2 * m2) ⇒ la matrice résultante A=B*C ;
